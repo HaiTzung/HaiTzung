@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HaiTzung
-- 👀 I’m interested in everything around Raspberry Pis
+- 👀 I’m interested in everything around Raspberry Pis, Swift and Python
 
-- 📫 How to reach me: Discord: "Hai Tzung#1256"
+- 📫 How to reach me: Discord: @hai_tzung
